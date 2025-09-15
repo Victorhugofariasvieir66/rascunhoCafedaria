@@ -22,3 +22,10 @@ Você pode clonar este repositório e abrir o `index.html` no navegador:
 
 ```bash
 git clone https://github.com/Victorhugofariasvieir66/rascunhoCafedaria.git
+```
+ou 
+## 🌐 Entre e veja!
+📲 **[Acesse agora e confira](https://victorhugofariasvieir66.github.io/rascunhoCafedaria/)
+
+O site da nossa cafedaria já está no ar!  
+📲 **[Acesse agora e confira](https://victorhugofariasvieir66.github.io/rascunhoCafedaria/)** o rascunho com cardápio, imagens e muito mais.
