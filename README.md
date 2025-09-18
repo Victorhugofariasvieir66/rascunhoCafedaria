@@ -1,4 +1,4 @@
-# ☕ Rascunho do Site da Cafedaria
+# ☕ Rascunho do Site cafeteira 
 
 Este repositório contém o rascunho inicial de um site desenvolvido para uma cafedaria artesanal. O objetivo é criar uma presença digital acolhedora, elegante e funcional, destacando os produtos, a história e o ambiente da loja.
 
